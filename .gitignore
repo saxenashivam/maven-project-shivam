@@ -41,8 +41,10 @@ local.properties
 
 # --------------- #
 # Studio-specific #
+
 # --------------- #
 .studio/
 flows/
 target/
 src/main/api/.repository/ 
+derby.log
